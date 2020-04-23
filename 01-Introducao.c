@@ -23,6 +23,8 @@ Não irão precisar saber muito o que seria uma função (Mais para a frente ire
 
 A função "main" por norma é assim (como está escrito em cima)
 
+Na programação não se usa os Acentos (~, `, ^, etc...) nem usar ç tecnicamente só se usa o alfabeto inglês (Nâo tem virgulas nem ç, etc...)
+
 */
 
 
