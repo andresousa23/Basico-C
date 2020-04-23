@@ -5,6 +5,7 @@ Aqui conseguirás aprender os básicos que eu aprendi em C.
 Saberem pelo menos a Lógica da programação
 > Se não souberem nada sobre lógica da programação aconcelho esta playlist no youtube:
 * [Curso Em Video](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+
 Ter algum compilador de C (por exemplo o [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/))
 
 ## Por onde começar?
