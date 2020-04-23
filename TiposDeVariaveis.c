@@ -9,7 +9,8 @@ bool = Verdadeiro/Falso (true/false)
 float = Numeros reais (1.2, 2.56, 3.435, 3.1415) 
 	- Em programação não se usa virgulas 
 		para representar numeros reais (ou seja numeros com virgulas)
-		mas usa-se com um ponto ex: 2.23 = 2,23
+		usa-se um ponto ex: "2.23"
+		2.23 seria igual a 2,23 (como se usa normalmente em matematica)
 char = Caracteres ex: "c" "s" "d" (Apenas um caracter mais para a frente irei demonstrar como usar uma cadeia de caracteres)
 
 
