@@ -16,6 +16,7 @@ char = Caracteres ex: "c" "s" "d" (Apenas um caracter mais para a frente irei de
 
 Como inicializar uma variavel pergunta vocês então:
 
+
 <Tipo Da Variavel> (Nome da Variavel) = (Valor da Variavel);
 Ex:
 
@@ -25,6 +26,13 @@ int nrInteiro = 9;
 bool vOuF = true;
 float nrComVirgula = 3.1415;
 char caracter = "s";
+
+(ATENÇÃO COMO FOI DITO NA INTRODUÇÃO NAO SE PODE USAR CARACTERES ESPECIAIS COMO ACENTOS OU Ç)
+(AO DAR NOMES A VARIAVEIS TEMOS DE SEGUIR AS SEGUINTES MANEIRAS:
+	- Não começar com numeros apenas com letras (ex: 01nome - ERRADO | nome01 - CORRETO)
+	- Não usar nenhum caracter especial
+	- Não começar com Letras Maiusculas
+)
 
 
 Querem mudar o valor da variavel? Simplesmente façam:
