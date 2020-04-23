@@ -18,4 +18,4 @@ TiposDeVariaveis.c
 
 ## Alguns recursos que vos irá ajudar durante a aprendizagem de C:
 * Se tiverem opção de comprar cursos online comprem no site [Udemy](https://www.udemy.com)
-* 
+* MAIS EM BREVE
